@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "price": "14000",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed.",
+    "type ": "one time payment"
+  },
+  {
+    "id": 2,
+    "price": "10000",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed.",
+    "type ": "one time payment"
+  },
+
+  {
+    "id": 3,
+    "price": "8000",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed.",
+    "type ": "one time payment"
+  }
+]
